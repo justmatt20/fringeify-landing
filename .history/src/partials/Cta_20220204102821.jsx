@@ -26,7 +26,7 @@ function Cta() {
               <div>
                 <a
                   className="btn text-hero bg-yellow hover:text-green font-average-400"
-                  href="http://eepurl.com/hTX3qf"
+                  href="#http://eepurl.com/hTX3qf"
                 >
                   Get started for free
                 </a>
