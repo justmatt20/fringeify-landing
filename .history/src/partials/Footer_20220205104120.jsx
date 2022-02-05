@@ -139,7 +139,7 @@ function Footer() {
             <li>
               <a
                 href="https://twitter.com/fringeify"
-                className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-green hover:bg-yellow rounded-full shadow transition duration-150 ease-in-out"
+                className="flex justify-center items-center text-gray-600 hover:text-gray-900 bg-green hover:bg-white-100 rounded-full shadow transition duration-150 ease-in-out"
                 aria-label="Twitter"
               >
                 <svg

@@ -17,7 +17,8 @@ function Cta() {
                   Join the waitlist!
                 </h3>
                 <p className="text-gray-900 text-lg opacity-75 font-average-400">
-                  Be early. Join our waitlist to get notified when we launch.
+                  We're here for startups, entrepreneurs, and small teams. Join
+                  our waitlist to get notified when we launch.
                 </p>
               </div>
 

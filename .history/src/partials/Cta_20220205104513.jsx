@@ -17,7 +17,8 @@ function Cta() {
                   Join the waitlist!
                 </h3>
                 <p className="text-gray-900 text-lg opacity-75 font-average-400">
-                  Be early. Join our waitlist to get notified when we launch.
+                  We're here for startups, entrepreneurs, and small teams. Join
+                  our waitlist to get notified when we launch.
                 </p>
               </div>
 
@@ -27,7 +28,7 @@ function Cta() {
                   className="btn text-hero bg-yellow hover:text-green font-average-400"
                   href="http://eepurl.com/hTX3qf"
                 >
-                  Join the waitlist
+                  Get started for free
                 </a>
               </div>
             </div>
