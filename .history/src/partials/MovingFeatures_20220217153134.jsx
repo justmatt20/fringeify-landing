@@ -10,7 +10,7 @@ function FeaturesAnimation() {
             <h1 className="h1 font-Lexend mb-4 text-hero">
               An ecosystem of extra benefits for your team
             </h1>
-            <p className="text-xl font-average-400 text-gray-900 ">
+            <p className="text-xl font-average-400 text-gray-600 ">
               Studies show that job seekers are searching for jobs that maximize
               their earnings and their improve their work-life balance.
             </p>
