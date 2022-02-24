@@ -8,14 +8,12 @@ function FeaturesGallery() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h1 font-Lexend text-green mb-4">
-              Fringeify supports small businesses to sole proprietors
+              Local teams and businesses win with Fringeify
             </h2>
             <p className="text-xl text-gray-900 font-average-400">
-              Fringeify partners with brands, experiences, and services that
-              your teams are already using or are searching for. We leverage our
-              relationships with those providers to create discounts and
-              opportunities that help amplify your team member’s budgets and
-              work-life balance.
+              We love a great game of ping pong but it doesn't equate to
+              employee happiness or retention. Find out how Fringeify can help
+              add extra perks your team will love.
             </p>
           </div>
 
@@ -46,7 +44,7 @@ function FeaturesGallery() {
                 </svg>
               </div>
               <div className="sm:text-lg font-average-400 text-gray-900">
-                Small Businesses
+                Improve morale
               </div>
             </div>
 
@@ -82,7 +80,7 @@ function FeaturesGallery() {
                 </svg>
               </div>
               <div className="sm:text-lg font-average-400 text-gray-900">
-                Solopreneurs
+                Show appreciation
               </div>
             </div>
 
@@ -111,7 +109,7 @@ function FeaturesGallery() {
                 </svg>
               </div>
               <div className="sm:text-lg font-average-400 text-gray-900">
-                Early Startups
+                Celebrate your team
               </div>
             </div>
 
@@ -131,7 +129,7 @@ function FeaturesGallery() {
                 </svg>
               </div>
               <div className="sm:text-lg font-average-400 text-gray-900">
-                Local Businesses
+                Better together
               </div>
             </div>
           </div>

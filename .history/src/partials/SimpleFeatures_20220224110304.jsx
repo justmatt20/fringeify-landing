@@ -8,14 +8,12 @@ function FeaturesGallery() {
           {/* Section header */}
           <div className="max-w-3xl mx-auto text-center pb-12 md:pb-20">
             <h2 className="h1 font-Lexend text-green mb-4">
-              Fringeify supports small businesses to sole proprietors
+              Local teams and businesses win with Fringeify
             </h2>
             <p className="text-xl text-gray-900 font-average-400">
-              Fringeify partners with brands, experiences, and services that
-              your teams are already using or are searching for. We leverage our
-              relationships with those providers to create discounts and
-              opportunities that help amplify your team member’s budgets and
-              work-life balance.
+              We love a great game of ping pong but it doesn't equate to
+              employee happiness or retention. Find out how Fringeify can help
+              add extra perks your team will love.
             </p>
           </div>
 
@@ -46,7 +44,7 @@ function FeaturesGallery() {
                 </svg>
               </div>
               <div className="sm:text-lg font-average-400 text-gray-900">
-                Small Businesses
+                Improve morale
               </div>
             </div>
 
@@ -66,13 +64,13 @@ function FeaturesGallery() {
                   className="absolute inset-0 rounded-full opacity-30 bg-gradient-to-tr from-green -z-1"
                   aria-hidden="true"
                 ></div>
-                <svg
+                {/* <svg
                   className="w-20 h-20 fill-current text-hero"
                   viewBox="0 0 80 80"
                   xmlns="http://www.w3.org/2000/svg"
                 >
                   <path d="M35 22.304a3.826 3.826 0 013.707.989l6.828 6.828A5 5 0 0147 33.657V44h-2V33.657a3 3 0 00-.88-2.122l-6.827-6.828A1.827 1.827 0 0034.17 26c0 .485.193.95.536 1.293l6 6-1.414 1.414-6-6A3.827 3.827 0 0133 23.621V17a2 2 0 10-4 0v11.6a3 3 0 00.658 1.875L37 39.65V44h-2v-3.65l-6.904-8.625A5 5 0 0127 28.6V17a4 4 0 118 0v5.304zm32 1.317a3.827 3.827 0 01-.293 5.086l-6 6-1.414-1.414 6-6A1.827 1.827 0 0064 24.17c-.485 0-.95.193-1.293.536l-6.828 6.828A3 3 0 0055 33.657V44h-2V33.657a5 5 0 011.465-3.536l6.828-6.828a3.827 3.827 0 013.707-.99V17a4 4 0 118 0v11.6a5 5 0 01-1.096 3.125L65 40.35V44h-2v-4.35l7.342-9.175A3 3 0 0071 28.6V17a2 2 0 10-4 0v6.621zM56.456.308A6.5 6.5 0 0161 6.498a6.446 6.446 0 01-2.013 4.7L50 20.433l-.717-.737-8.234-8.465a6.5 6.5 0 118.956-9.422A6.501 6.501 0 0156.456.308zm-.602 1.907a4.5 4.5 0 00-5.036 1.704l-.824 1.173-.816-1.179a4.5 4.5 0 00-8.002 1.24c-.506 1.648-.026 3.44 1.27 4.65L50 17.566l7.586-7.795A4.476 4.476 0 0059 6.5a4.5 4.5 0 00-3.146-4.286z" />
-                </svg>
+                </svg> */}
                 <svg
                   xmlns="http://www.w3.org/2000/svg"
                   className="w-20 h-20 fill-current text-hero"
@@ -82,7 +80,7 @@ function FeaturesGallery() {
                 </svg>
               </div>
               <div className="sm:text-lg font-average-400 text-gray-900">
-                Solopreneurs
+                Show appreciation
               </div>
             </div>
 
@@ -111,7 +109,7 @@ function FeaturesGallery() {
                 </svg>
               </div>
               <div className="sm:text-lg font-average-400 text-gray-900">
-                Early Startups
+                Celebrate your team
               </div>
             </div>
 
@@ -131,7 +129,7 @@ function FeaturesGallery() {
                 </svg>
               </div>
               <div className="sm:text-lg font-average-400 text-gray-900">
-                Local Businesses
+                Better together
               </div>
             </div>
           </div>
