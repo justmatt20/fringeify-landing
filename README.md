@@ -6,6 +6,7 @@ React landing page template designed by Cruip.
 ```
 npm install
 ```
+![alt text](http://url/to/img.png)
 
 ### Compiles and hot-reloads for development
 ```
