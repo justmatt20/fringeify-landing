@@ -1,6 +1,6 @@
 # Simple React
 
-Landing page for Fringeify.
+Landing page for Fringeify. See fringeify.com
 
 ## Project setup
 ```
